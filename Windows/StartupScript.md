@@ -1,0 +1,1 @@
+Say you need to run a script on startup, for some this could be easy to figure out, for me however, it wasn't but thanks to [this](https://stackoverflow.com/questions/21218346/run-batch-file-on-start-up#answer-21218442) answer on good old StackOverflow it was a piece of cake!
